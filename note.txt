@@ -1,0 +1,3 @@
+db.session.add() # for add data
+db.session.commit() # for commit
+db.session.push() # push into database
